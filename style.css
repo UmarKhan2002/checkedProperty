@@ -1,0 +1,38 @@
+body{
+  background-color: cornsilk;
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+
+label{
+  font-family: monospace;
+  font-size: 3em;
+  margin: 50px;
+  color: rgb(83, 42, 27);
+  font-weight: 900;
+}
+
+#mySubmit{
+  font-size: 1.5em;
+  font-weight: 900;
+  color: coral;
+  cursor: pointer;
+  background-color:rgb(230, 230, 230);
+  border-radius: 10px ;
+  border-color: beige;
+
+}
+
+#mySubmit:hover{
+  background-color: chocolate;
+}
+
+p{
+  font-size: 3em;
+  font-family: monospace;
+  font-style: italic;
+  font-weight: 900;
+  color:coral;
+}
